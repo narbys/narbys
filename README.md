@@ -1,6 +1,7 @@
-### I am a frog
+### I am narbys
 
-beep boop
+I like frog :)
+beep boop eat soop
 
 <!--
 **narbys/narbys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
